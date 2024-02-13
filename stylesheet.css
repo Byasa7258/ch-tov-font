@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'FlyFlowerSong';
+    src: local('FlyFlowerSong'),
+        url('FlyFlowerSong.woff2') format('woff2'),
+        url('FlyFlowerSong.woff') format('woff'),
+        url('FlyFlowerSong.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FlyFlowerSong';
+    src: local('FlyFlowerSong'),
+        url('FlyFlowerSong_1.woff2') format('woff2'),
+        url('FlyFlowerSong_1.woff') format('woff'),
+        url('FlyFlowerSong_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: local('nzgrGongchepuKangxi'),
+        url('nzgrGongchepuKangxi.woff2') format('woff2'),
+        url('nzgrGongchepuKangxi.woff') format('woff'),
+        url('nzgrGongchepuKangxi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: local('润植家工尺谱'), local('runzhijiagongche'),
+        url('runzhijiagongche.woff2') format('woff2'),
+        url('runzhijiagongche.woff') format('woff'),
+        url('runzhijiagongche.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'QIJI';
+    src: local('QIJI'),
+        url('QIJI.woff2') format('woff2'),
+        url('QIJI.woff') format('woff'),
+        url('QIJI.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LXGW Neo ZhiSong';
+    src: local('LXGW Neo ZhiSong'), local('LXGWNeoZhiSong'),
+        url('LXGWNeoZhiSong.woff2') format('woff2'),
+        url('LXGWNeoZhiSong.woff') format('woff'),
+        url('LXGWNeoZhiSong.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LXGW Heart Serif';
+    src: local('LXGW Heart Serif'), local('LXGWHeartSerif'),
+        url('LXGWHeartSerif.woff2') format('woff2'),
+        url('LXGWHeartSerif.woff') format('woff'),
+        url('LXGWHeartSerif.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
